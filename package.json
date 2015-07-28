@@ -12,12 +12,12 @@
     "start": "node ./app"
   },
   "dependencies": {
-    "express": ">=3.0",
-    "jade": "*",
-    "node-uuid": "*",
-    "zookeeper": ">=3.4.1-4",
-    "socket.io": "*",
-    "js-yaml": "*"
+    "express": "^3.0",
+    "jade": "^1.9.1",
+    "js-yaml": "^3.2.5",
+    "node-uuid": "^1.4.2",
+    "socket.io": "^1.3.2",
+    "zookeeper": "^3.4.6-4"
   },
   "license": "MIT"
 }
